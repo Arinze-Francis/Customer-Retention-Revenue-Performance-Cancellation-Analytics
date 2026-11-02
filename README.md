@@ -58,4 +58,6 @@ Cancellation-related value represented approximately 2.9% of gross sales. Big Sp
 **Overall Takeaway**
 The retailer's commercial performance is strongly influenced by repeat purchasing, a small group of high-value customers, and seasonal sales activity. While cancellation incidence declined over the observation period, revenue concentration and cancellation exposure highlight opportunities to strengthen customer retention, protect high-value relationships, and improve commercial planning.
 
+Dataset link: https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii?utm_source
+
 
